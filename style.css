@@ -7,7 +7,7 @@
 }
 
 body{
-    
+    background-color: #fefefe;
 }
 
 .NavSuperior{
@@ -20,6 +20,8 @@ body{
     background-color: #0D1F56;
     font-size: 14px;
     text-align: center;
+    position: sticky;
+    top:0;
 }
 
 .containerLogo{
